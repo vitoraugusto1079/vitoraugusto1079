@@ -1,7 +1,8 @@
 <!-- Descrição rápida sobre minha pessoa -->
 <div align="center">
-<h1>Olá! Eu sou Vítor</h1>
-  <p>Estudante de Desenvolvimento de Sistemas no SENAI</p>
+  <h1>Estudante de Desenvolvimento de Sistemas no SENAI</h1>
+  <p>Grande apreciador da área de criação de páginas web. Busco fazer de </p>
+    <p>meus trabalhos bem estruturados e com um design diferente dos demais.</p>
 </div>
 
 <!-- GIF das linguagens -->
