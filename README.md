@@ -1,4 +1,5 @@
-![GIF Banner](./Vítor Augusto (1).gif)
+<!-- Banner do Perfil -->
+![GIF Banner](./banner.gif)
 
 <!-- Estatísticas de Linguagens utilizadas -->
 <div>
