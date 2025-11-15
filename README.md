@@ -6,7 +6,7 @@
 </div>
   
 <!-- Tempo programando -->
-![WakaTime](https://wakatime.com/badge/user/SEU_ID.svg)
+![WakaTime](https://wakatime.com/badge/user/@cc693292-478f-472f-8d9e-e79a3ffb092c.svg)
 
   <!-- Contador de visitantes -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=vitoraugusto1079&color=blue)
