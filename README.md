@@ -1,4 +1,4 @@
-![GIF Banner](./VítorAugusto(1).gif)
+![GIF Banner](./Vítor Augusto (1).gif)
 
 <!-- Estatísticas de Linguagens utilizadas -->
 <div>
