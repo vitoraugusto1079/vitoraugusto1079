@@ -1,5 +1,5 @@
 <!-- Banner do Perfil -->
-![GIF Banner](./banner.gif)
+![GIF Banner](./banner.gif){width=400px}
 
 <!-- Estatísticas de Linguagens utilizadas -->
 <div>
