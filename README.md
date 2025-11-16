@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="relax.gif" width="100%" />
+</p>
+
+
 <!-- Descrição rápida sobre minha pessoa -->
 <div align="center">
   <h1>Estudante de Desenvolvimento de Sistemas no SENAI</h1>
