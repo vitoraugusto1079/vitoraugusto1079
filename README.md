@@ -1,6 +1,6 @@
 <!-- Banner de Perfil -->
 <p align="center">
-  <img src=".gif" width="100%" />
+  <img src="vittoraugusto1079.gif" width="100%" />
 </p>
 
 <!-- Descrição rápida sobre minha pessoa -->
