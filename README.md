@@ -3,6 +3,20 @@
   <img src="vittoraugusto1079.gif" width="100%" />
 </p>
 
+<!-- Contatos -->
+<a href="https://www.youtube.com//@GodElevator3007" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="https://www.instagram.com/vitin._7.xs/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:vitoraugustoaumeidacosta@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/seuPerfil" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 <!-- Descrição rápida sobre minha pessoa -->
 <div align="center">
   <h1>Estudante de Desenvolvimento de Sistemas no SENAI</h1>
