@@ -40,3 +40,37 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
+
+<!-- Conexões -->
+### Conexões (Professores e amigos)
+<!-- Adicione aqui os perfis de suas conexões -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <a href="https://github.com/felipenhoslol">
+          <img src="https://avatars.githubusercontent.com/u/202663156?v=4" width="50" style="border-radius:50%"/><br>
+          <sub>felipenhoslol</sub>   
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://github.com/Tomate3181">
+          <img src="https://avatars.githubusercontent.com/u/112053913?v=4" width="50" style="border-radius:50%"/><br>
+          <sub>Tomate3181 </sub>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://github.com/Vinicius3442">
+          <img src="https://avatars.githubusercontent.com/u/202663685?v=4" width="50" style="border-radius:50%"/><br>
+          <sub>Vinicius3442</sub>
+        </a>
+      </td>
+       <td align="center" width="100">
+        <a href="https://github.com/Cardoso30S">
+          <img src="https://avatars.githubusercontent.com/u/85962499?v=4" width="50" style="border-radius:50%"/><br>
+          <sub>Cardoso30S</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
