@@ -50,5 +50,3 @@
 </div>
 
 <br><br>
-
-![Snake animation](https://raw.githubusercontent.com/vitoraugusto1079/vitoraugusto1079/output/snake.svg)
