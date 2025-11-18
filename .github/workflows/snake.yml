@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda todo dia às 00:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+      # checkout atualizado
+        uses: actions/checkout@v4
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -21,7 +22,8 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Upload Snake Artifacts
-        uses: actions/upload-artifact@v3
+      # versão atualizada (v4)
+        uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist
