@@ -3,6 +3,8 @@
   <img src="vittoraugusto1079.gif" width="100%" />
 </p>
 
+<br>
+
 <!-- Descrição rápida sobre minha pessoa -->
 <div align="center">
   <h1>Estudante de Desenvolvimento de Sistemas no SENAI</h1>
@@ -24,6 +26,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoraugusto1079&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<br><br>
+
 <!-- Contatos -->
 <div align="center">
   <h1>Contatos</h1>
@@ -41,8 +45,10 @@
 </a>
 </div>
 
+<br><br>
+
 <!-- Conexões -->
-### Conexões (Professores e amigos)
+<h2 align="center">Conexões (Professores e amigos)</h2>
 <!-- Adicione aqui os perfis de suas conexões -->
 <div align="center">
   <table>
@@ -71,6 +77,18 @@
           <sub>Cardoso30S</sub>
         </a>
       </td>
+      <td align="center" width="100">
+        <a href="https://github.com/Joth-Alt">
+          <img src="https://github.com/Joth-Alt.png" width="50" style="border-radius:50%"/><br>
+          <sub>Joth-Alt</sub>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://github.com/pietro-renno">
+          <img src="https://github.com/pietro-renno.png" width="50" style="border-radius:50%"/><br>
+          <sub>pietro-renno</sub>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
