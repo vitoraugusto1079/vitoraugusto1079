@@ -8,6 +8,7 @@
 <!-- Descrição rápida sobre minha pessoa -->
 <div align="center">
   <h1>Estudante de Desenvolvimento de Sistemas no SENAI</h1>
+</div>
   <p>Grande apreciador da área de criação de páginas web. Busco fazer de </p>
     <p>meus trabalhos bem estruturados e com um design diferente dos demais.</p>
 </div>
