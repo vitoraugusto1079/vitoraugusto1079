@@ -12,20 +12,21 @@
 
 <br>
 
-<h1 align="center">Ferramentas e Tecnologias</h1>
+<h1 align="center">Ferramentas e Tecnologs</h1>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,git,github,flutter&theme=dark" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,git,github,figma,flutter&theme=dark" alt="Minhas Habilidades" />
   </a>
 </div>
 
+<br>
 <br>
 
 <h1 align="center"> Estatísticas do GitHub</h1>
 <div align="center">
   <a href="https://github.com/vitoraugusto1079">
-    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=vitoraugusto1079&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais"/>
-    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraugusto1079&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vitoraugusto1079&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Estatísticas Gerais"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraugusto1079&layout=compact&langs_count=7&theme=tokyonight&v=1" alt="Linguagens Mais Usadas"/>
   </a>
 </div>
 
