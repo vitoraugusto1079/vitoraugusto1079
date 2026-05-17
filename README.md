@@ -49,7 +49,7 @@
   <a href="https://www.instagram.com/vitin._7.xs/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.youtube.com/@GodElevator3007" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <a href="https://discord.com/users/_mr__black_">
+    <img src="https://img.shields.io/badge/DISCORD-000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
