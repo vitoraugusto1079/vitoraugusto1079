@@ -25,8 +25,7 @@
 <h1 align="center"> Estatísticas do GitHub</h1>
 <div align="center">
   <a href="https://github.com/vitoraugusto1079">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vitoraugusto1079&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Estatísticas Gerais"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraugusto1079&layout=compact&langs_count=7&theme=tokyonight&v=1" alt="Linguagens Mais Usadas"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitoraugusto1079&theme=high-contrast)](https://github.com/vitoraugusto1079/github-readme-activity-graph)">
   </a>
 </div>
 
