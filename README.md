@@ -31,12 +31,6 @@
 
 <br>
 
-<div align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoraugusto1079&theme=tokyonight" alt="Detalhes do Perfil" />
-</div>
-
-<br>
-
 <h1 align="center"> Redes de Contato</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/SEU_PERFIL_AQUI" target="_blank">
