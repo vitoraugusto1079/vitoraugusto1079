@@ -24,9 +24,8 @@
 
 <h1 align="center"> Estatísticas do GitHub</h1>
 <div align="center">
-  <a href="https://github.com/vitoraugusto1079">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitoraugusto1079&theme=high-contrast)](https://github.com/vitoraugusto1079/github-readme-activity-graph)">
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoraugusto1079&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vitoraugusto1079&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br>
