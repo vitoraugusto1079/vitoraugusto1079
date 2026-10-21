@@ -82,7 +82,7 @@
 <h2 align="center">Redes de Contato</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_PERFIL_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/v%C3%ADtor-augusto-almeida-costa-441b05366/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2E3440?style=for-the-badge&logo=linkedin&logoColor=88C0D0" alt="LinkedIn" />
   </a>
   <a href="mailto:vitoraugustoaumeidacosta@gmail.com" target="_blank">
